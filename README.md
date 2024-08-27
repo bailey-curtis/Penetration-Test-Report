@@ -4,3 +4,6 @@ In this assignment, you will record the activities you undertook in both modules
 Remember that the report is a very important part of an engagement, as it tells the story of your findings and how you discovered them. 
 Even if you complete all objectives when performing an assessment, a poor report appears to the customer as though you conducted a poor-quality assessment.
 This report will cover your activities across both penetration testing modules. We recommend that you fill the report out as you work to shorten the time outside class to complete it.
+
+<h2>Note</h2>
+Due to the file size of the deliverable, the following submission can be viewed <a href="https://docs.google.com/document/d/1cwdfu9BVnKHHfQUJ22BWjaxWpcAYe6bXLfqSISveFLo/edit?usp=sharing">HERE</a>
