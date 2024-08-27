@@ -1,4 +1,4 @@
-# PenetrationTest Report
+# Penetration Test Report
 <h2>Scenario</h2>
 In this assignment, you will record the activities you undertook in both modules of penetration testing against MegaCorpOne and your results, and you'll create a report to turn in to the CISO of MegaCorpOne. This report will be your Challenge deliverable.
 Remember that the report is a very important part of an engagement, as it tells the story of your findings and how you discovered them. 
